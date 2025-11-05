@@ -2,6 +2,13 @@
 
 API RESTful desenvolvida em Flask para gerenciamento de expedições. Este projeto fornece endpoints para criar, listar, atualizar e deletar expedições, com armazenamento de dados em banco SQLite.
 
+## 👥 Integrantes do Projeto
+
+- [**Lucas da Silva Duarte**](https://github.com/lucasduartexyz/)
+- [**Gabriel Mendes Rodrigues**](https://github.com/GabrielSteins/)
+- [**Lara Stefanny Andrade da Silva**](https://github.com/Lara-AS)
+- [**João Marcos Silva de Melo**](https://github.com/JOAOMARCOS405)
+
 ## 🚀 Tecnologias
 
 - **Flask** 3.0.3 - Framework web Python
@@ -273,21 +280,3 @@ curl -X DELETE http://127.0.0.1:2000/deletar \
   -H "Content-Type: application/json" \
   -d '{"id": 1}'
 ```
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 👥 Integrantes do Projeto
-
-- [**Lucas da Silva Duarte**](https://github.com/lucasduartexyz/)
-
-- [**Gabriel Mendes Rodrigues**](https://github.com/GabrielSteins/)
-
-- [**Lara Stefanny Andrade da Silva**](https://github.com/Lara-AS)
-
-- [**João Marcos Silva de Melo**](https://github.com/JOAOMARCOS405)
