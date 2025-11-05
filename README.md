@@ -20,8 +20,8 @@ API RESTful desenvolvida em Flask para gerenciamento de expedições. Este proje
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/trabalhoFlask.git
-cd trabalhoFlask
+git clone https://github.com/seu-usuario/api-flask.git
+cd api-flask
 ```
 
 2. Crie um ambiente virtual (recomendado):
@@ -50,7 +50,7 @@ A API estará disponível em `http://127.0.0.1:2000`
 ## 📚 Estrutura do Projeto
 
 ```
-trabalhoFlask/
+api-flask/
 ├── app/
 │   ├── __init__.py          # Configuração do Flask e inicialização da aplicação
 │   ├── models/
